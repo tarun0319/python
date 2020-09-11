@@ -1,4 +1,4 @@
-Project 1 - 911 Emergency Calls Analysis
+Problem Statement  1 - 911 Emergency Calls Analysis
 Dataset Link - https://www.kaggle.com/mchirico/montcoalert
 Report - Using Jupyter Notebook only.
 
@@ -18,7 +18,7 @@ Visualize the percentage share of emergency type for each call.
 
 
 
-Project 2 - Employee Attrition Prediction, based on Employee previous records.
+Problem Statement  2 - Employee Attrition Prediction, based on Employee previous records.
 Dataset provided in the email itself.
 
 Report - Using Jupyter Notebook only.
@@ -33,7 +33,7 @@ Questions -
 Department wise performances.
 
 
-Top 3 Important Factors affecting employee performance.
+Problem Statement 3 Important Factors affecting employee performance.
 
 
 A trained model which can predict whether to hire employees.
